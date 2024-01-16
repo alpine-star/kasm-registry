@@ -1,5 +1,5 @@
 <h1 align="center">
-
+ <br>  
   This kasm registry uses a private docker registry and images cannot be downloaded in your kasm instance. You can set up and build your own images following the documentation on kasm's website.
   <br>
   ------------------------------------------------------------------
