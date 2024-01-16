@@ -1,4 +1,17 @@
 <h1 align="center">
+
+  This kasm registry uses a private docker registry and images cannot be downloaded in your kasm instance. You can set up and build your own images following the documentation on kasm's website.
+  <br>
+  ------------------------------------------------------------------
+</h1>
+<h1 align="center">
+  <br>
+  <img width="150" src="https://user-images.githubusercontent.com/5698566/230345149-ef757e51-6eb9-479d-94f5-a13e4ad33b03.png">
+  <br>
+  Kasm Workspaces Registry
+  <br>
+</h1>
+<h1 align="center">
   <br>
   <img width="150" src="https://user-images.githubusercontent.com/5698566/230345149-ef757e51-6eb9-479d-94f5-a13e4ad33b03.png">
   <br>
