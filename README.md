@@ -11,13 +11,6 @@
   Kasm Workspaces Registry
   <br>
 </h1>
-<h1 align="center">
-  <br>
-  <img width="150" src="https://user-images.githubusercontent.com/5698566/230345149-ef757e51-6eb9-479d-94f5-a13e4ad33b03.png">
-  <br>
-  Kasm Workspaces Registry
-  <br>
-</h1>
 
 <p align="center">This repository is a template you can use to create your own registry that will work with Kasm Workspaces. A front end website is automatically generated for you and will look similar to the one below.</p>
 
