@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'alpine-star Kasm',
+    name: 'My Kasm Registry',
     description: 'Kasm registry with private docker registry',
     icon: '/img/logo.svg',
     listUrl: 'https://alpine-star.github.io/kasm-registry ',
